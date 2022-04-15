@@ -31,28 +31,23 @@ Json_data = {
 }
 
 PRODUCERS = (i for i in Json_data["producers"])
-Film_Credits = """
+Film_Credits = f"""
 It's been an honour to work with this entire cast and crew and made the movie
 =============================================================================
 
 \t\t\t\t\t\t\t   ============
-\t\t\t\t\t\t\t   | {} |
+\t\t\t\t\t\t\t   | {Json_data['MOVIE_NAME']} |
 \t\t\t\t\t\t\t   ============
 
-\t\t\t\t\t\t\t {} a BlockBuster 
+\t\t\t\t\t\t\t {emoji.emojize(':grinning_face_with_big_eyes:')} a BlockBuster 
 
  From the day 1 till date the makeover of the film is an awestruck process.
 
 \t\t\t\t I would like to splash my special thanks to 
 
-\t\t\t\t\t\t\t  {}
-\t\t\t\t\t\t     {}
-\t\t\t\t\t\t{}
-""".format(
-    Json_data["MOVIE_NAME"], emoji.emojize(":grinning_face_with_big_eyes:"),
-    next(PRODUCERS),
-    next(PRODUCERS),
-    next(PRODUCERS)
-)
+\t\t\t\t\t\t   {emoji.emojize(':partying_face:')} {next(PRODUCERS)}
+\t\t\t\t\t\t   {emoji.emojize(':face_with_monocle:')} {next(PRODUCERS)}
+\t\t\t\t\t\t   {emoji.emojize(':flexed_biceps:')} {next(PRODUCERS)}
+"""
 
 print(Film_Credits)
