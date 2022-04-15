@@ -35,8 +35,20 @@ ART_DIRECTORS = (j for j in Json_data["art_directors"])
 VILLAIN_TEAM = (k for k in Json_data["villain_team"])
 
 Film_Credits = f"""
-It's been an honour to work with this entire cast and crew and made the movie
------------------------------------------------------------------------------
+\t\t\t\t\t\t\t ***************
+\t\t\t\t\t\t\t * END CREDITS *
+\t\t\t\t\t\t\t ***************
+
+DISCLAIMER: JUST FOR FUN NO HARD FEELINGS
+^^^^^^^^^^
+
+SCENE1 TAKE1 DATE: {Json_data['SCENE1_TAKE1_DATE'].strftime("%d-%B-%Y")}
+
+LAST DAY OF SHOOT: {Json_data['FINALSCENE_FINALTAKE_DATE'].strftime("%d-%B-%Y")}
+
+
+It's been an honour to work with this entire cast and crew have made the movie
+------------------------------------------------------------------------------
 
 \t\t\t\t\t\t\t   ============
 \t\t\t\t\t\t\t   | {Json_data['MOVIE_NAME']} |
@@ -108,20 +120,23 @@ It's been an honour to work with this entire cast and crew and made the movie
 
 In this entire journey of carving this movie there where lot of ups and downs.
 Happiness, Joy of Finishing a day of shoot, Completeness of a stunt sequence,
-Tiredness of lengthy chasing scenes on a never ending road. 
-At the end of the day we all sleep good with cherising feel of finishing 
+Tiredness of capturing lengthy chasing scenes on a never ending road. 
+
+At the end of the day we all sleep good with cherising feel of counting
 every day of the movie.
 
-Please watch in near cinemas around you, no piracy it is a hard work of 300+
-team members.
+Please watch in near cinemas around you, no piracy it is a painstaking
+hardwork of 300+ crew members.
 
-I will meet in the next movie no hardfeel in cinemas not as cast and crew as
+I will meet in my next movie in cinema hall not as cast and crew members, 
 you all know I need to find something brand new in my each movie including 
-cast and crew members giving me immense creativity.
+cast and crew members giving me immense ideas and creativity.
 
 Thank you all for helping me to complete this movie. Time to say good bye.
-See you all in big screen again 
-You can reach back me through 
+See you all in big screen again.
+
+You can reach back me through
+-----------------------------
 Android:   +919884011997
 POP3/IMAP: kmrnr1987@gmail.com
 """
