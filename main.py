@@ -114,9 +114,10 @@ It's been an honour to work with this entire cast and crew have made the movie
 
 \t\t\t Hero Team always Hero to their self & others, 
 \t\t\t I proudly present my Hero team
-\t\t\t --<---<---<---<---<---<---<---<---<---<---<---
+\t\t\t <><><><><><><><><><><><><><><><><><><><><><>
 
 \t\t\t {emoji.emojize(':person_in_tuxedo:')} {Json_data["HERO_TEAM"]}
+
 
 In this entire journey of carving this movie there where lot of ups and downs.
 Happiness, Joy of Finishing a day of shoot, Completeness of a stunt sequence,
