@@ -120,12 +120,14 @@ It's been an honour to work with this entire cast and crew have made the movie
 
 
 The entire journey of carving this action movie we faced lot of twists and turns.
-Happiness, Emptiness, Joy of Finishing a day of shoot, Completeness of a stunt sequence, Tiredness of capturing lengthy chasing scenes on a never ending road. 
+Happiness, Emptiness, Joy of Finishing a day of shoot, Completeness of a stunt sequence,
+Tiredness of capturing lengthy chasing scenes on a never ending road. 
 
 At the end of the day we all sleep good with cherising feel of counting
 every day of the movie shoot.
 
-I Believe you all like the movie very much. Please watch in near cinemas around you, no piracy it is a painstaking hardwork of 300+ crew members.
+I Believe you all like the movie very much. Please watch in near cinemas around you,
+no piracy it is a painstaking hardwork of 300+ crew members.
 
 I will meet in my next movie at Cinema hall not as cast and crew members, 
 you all know I used to police something brand new in my each movies 
