@@ -7,7 +7,7 @@ import emoji
 
 Json_data = {
     "MOVIE_NAME": "No Again",
-    "PRODUCERS": [
+    "producers": [
         "R, Rajaram (RR)",
         "Muthuswamy, Rajesh",
         "Jyothi Gadikal Krishnamurthy",
@@ -30,6 +30,7 @@ Json_data = {
     "FINALSCENE_FINALTAKE_DATE": date(2022, 4, 22),
 }
 
+PRODUCERS = (i for i in Json_data["producers"])
 Film_Credits = """
 It's been an honour to work with this entire cast and crew and made the movie
 =============================================================================
@@ -45,9 +46,13 @@ It's been an honour to work with this entire cast and crew and made the movie
 \t\t\t\t I would like to splash my special thanks to 
 
 \t\t\t\t\t\t\t  {}
+\t\t\t\t\t\t     {}
+\t\t\t\t\t\t{}
 """.format(
     Json_data["MOVIE_NAME"], emoji.emojize(":grinning_face_with_big_eyes:"),
-    "\n".join(Json_data["PRODUCERS"])
+    next(PRODUCERS),
+    next(PRODUCERS),
+    next(PRODUCERS)
 )
 
 print(Film_Credits)
