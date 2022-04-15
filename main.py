@@ -15,7 +15,7 @@ Json_data = {
     "THE_DIRECTOR": "Subash, Ebenezer Joyson",
     "HERO_TEAM": "APP Migration Factory Unix Team Members",
     "EXECUTIVE_PRODUCER": "Schofield, Steve",
-    "VILLAN_TEAM": ["Scrum Leads", "MMs", "MPMs", "Command Center"],
+    "villain_team": ["Scrum Leads", "MMs", "MPMs", "Command Center"],
     "art_directors": (
         "Application Team",
         "Oracle Team",
@@ -32,6 +32,7 @@ Json_data = {
 
 PRODUCERS = (i for i in Json_data["producers"])
 ART_DIRECTORS = (j for j in Json_data["art_directors"])
+VILLAIN_TEAM = (k for k in Json_data["villain_team"])
 
 Film_Credits = f"""
 It's been an honour to work with this entire cast and crew and made the movie
@@ -84,6 +85,11 @@ It's been an honour to work with this entire cast and crew and made the movie
 \t\t\t\t\t\t   {emoji.emojize(':fire:')} {next(ART_DIRECTORS)}
 
 \t\t\t\t\t\t   {emoji.emojize(':puzzle_piece:')} {next(ART_DIRECTORS)}
+
+\t  Welcome to the World of our Monstrous Villain team, Thank you guys for keeping us nail biting
+\t  ---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---
+
+\t\t\t\t\t\t\t {emoji.emojize(':briefcase:')} {Json_data["EXECUTIVE_PRODUCER"]}
 
 
 """
