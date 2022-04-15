@@ -16,7 +16,7 @@ Json_data = {
     "HERO_TEAM": "APP Migration Factory Unix Team Members",
     "EXECUTIVE_PRODUCER": "Schofield, Steve",
     "VILLAN_TEAM": ["Scrum Leads", "MMs", "MPMs", "Command Center"],
-    "ART_DIRECTORS": (
+    "art_directors": (
         "Application Team",
         "Oracle Team",
         "Tiger Team",
@@ -31,9 +31,11 @@ Json_data = {
 }
 
 PRODUCERS = (i for i in Json_data["producers"])
+ART_DIRECTORS = (j for j in Json_data["art_directors"])
+
 Film_Credits = f"""
 It's been an honour to work with this entire cast and crew and made the movie
-=============================================================================
+-----------------------------------------------------------------------------
 
 \t\t\t\t\t\t\t   ============
 \t\t\t\t\t\t\t   | {Json_data['MOVIE_NAME']} |
@@ -52,11 +54,36 @@ It's been an honour to work with this entire cast and crew and made the movie
 
 \t\t\t\t\t   {emoji.emojize(':flexed_biceps:')} {next(PRODUCERS)}
 
+
 \tWithout a captain there is no ship he is our multi-faceted Director
 \t---<---<---<---<---<---<---<---<---<---<---<---<---<---<---<---<---
 
 \t\t\t\t\t\t {emoji.emojize(':cinema:')} {Json_data["THE_DIRECTOR"]}
 
+
+\t  Special Thanks to our proactive & stupendous Executive Producer 
+\t  ---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---
+
+\t\t\t\t\t\t\t {emoji.emojize(':briefcase:')} {Json_data["EXECUTIVE_PRODUCER"]}
+
+
+\t\t Making audience convinced to reality is always complex, 
+\t\t   Countless Thanks for my Curated Art Director(s) Team
+\t\t {emoji.emojize(':man_mage:')}--+---+---+---+---+---+---+---+---+---+---+---+---+--{emoji.emojize(':woman_mage:')}
+
+\t\t\t\t\t\t   {emoji.emojize(':woman_technologist:')} {next(ART_DIRECTORS)}
+
+\t\t\t\t\t\t   {emoji.emojize(':man_technologist:')} {next(ART_DIRECTORS)}
+
+\t\t\t\t\t\t   {emoji.emojize(':tiger:')} {next(ART_DIRECTORS)}
+
+\t\t\t\t\t\t   {emoji.emojize(':nut_and_bolt:')} {next(ART_DIRECTORS)}
+
+\t\t\t\t\t\t   {emoji.emojize(':chains:')} {next(ART_DIRECTORS)}
+
+\t\t\t\t\t\t   {emoji.emojize(':fire:')} {next(ART_DIRECTORS)}
+
+\t\t\t\t\t\t   {emoji.emojize(':puzzle_piece:')} {next(ART_DIRECTORS)}
 
 
 """
