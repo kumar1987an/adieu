@@ -55,7 +55,7 @@ It's been an honour to work with this entire cast and crew and made the movie
 \tWithout a captain there is no ship he is our multi-faceted Director
 \t---<---<---<---<---<---<---<---<---<---<---<---<---<---<---<---<---
 
-\t\t\t\t\t\t {emoji.emojize(':movie_camera:')} {Json_data["THE_DIRECTOR"]}
+\t\t\t\t\t\t {emoji.emojize(':cinema:')} {Json_data["THE_DIRECTOR"]}
 
 
 
