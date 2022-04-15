@@ -86,10 +86,18 @@ It's been an honour to work with this entire cast and crew and made the movie
 
 \t\t\t\t\t\t   {emoji.emojize(':puzzle_piece:')} {next(ART_DIRECTORS)}
 
-\t  Welcome to the World of our Monstrous Villain team, Thank you guys for keeping us nail biting
-\t  ---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---
 
-\t\t\t\t\t\t\t {emoji.emojize(':briefcase:')} {Json_data["EXECUTIVE_PRODUCER"]}
+\t\t  Welcome to the World of our Monstrous Villain team, 
+\t\t   Thank you guys for keeping us nail biting all day
+\t\t -+---+---+---+---+---+---+---+---+---+---+---+---+---
+
+\t\t\t\t\t\t  {emoji.emojize(':skull:')} {next(VILLAIN_TEAM)}
+
+\t\t\t\t\t\t  {emoji.emojize(':smiling_face_with_horns:')} {next(VILLAIN_TEAM)}
+
+\t\t\t\t\t\t  {emoji.emojize(':alien_monster:')} {next(VILLAIN_TEAM)}
+
+\t\t\t\t\t\t  {emoji.emojize(':vampire:')} {next(VILLAIN_TEAM)}
 
 
 """
