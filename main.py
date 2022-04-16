@@ -147,16 +147,19 @@ At the end of the day we all sleep
 good with cherising feel of counting 
 every day of the movie shoot.
 
-I Believe you all like the movie very much. 
-Please watch in near cinemas around you, 
-no piracy it is a painstaking hardwork of 
+I Believe you all like the movie 
+very much. Please watch in near 
+cinemas around you, no piracy 
+it is a painstaking hardwork of 
 300+ crew members.
 
-I will meet in my next movie at Cinema hall 
-not as cast & crew members, you all know I 
-used to police something brand new in my each 
-movies including cast and crew members gives
-me immense ideas and creativity.
+I will meet in my next movie at 
+Cinema hall not as cast & crew 
+members, you all know I used to 
+police something new in my each 
+movies including cast and crew 
+members gives me immense ideas 
+and creativity.
 
 Thank you all for helping me to 
 complete this movie. 
