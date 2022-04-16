@@ -13,7 +13,7 @@ Json_data = {
         "Jyothi Gadikal Krishnamurthy",
     ],
     "THE_DIRECTOR": "Subash, Ebenezer Joyson",
-    "HERO_TEAM": "Factory Unix Team Members",
+    "HERO_TEAM": "Factory Unix Team",
     "EXECUTIVE_PRODUCER": "Schofield, Steve",
     "villain_team": ["Scrum Leads", "MMs", "MPMs", "Command Center"],
     "art_directors": (
@@ -47,8 +47,9 @@ SCENE1 TAKE1 DATE: {Json_data['SCENE1_TAKE1_DATE'].strftime("%d-%B-%Y")}
 LAST DAY OF SHOOT: {Json_data['FINALSCENE_FINALTAKE_DATE'].strftime("%d-%B-%Y")}
 
 
-It's been an honour to work with this entire 
-    cast and crew have made the movie
+It's been an honour to work with our 
+   entire cast and crew have made 
+            this movie
 
             ============
             | {Json_data['MOVIE_NAME']} |
@@ -56,12 +57,16 @@ It's been an honour to work with this entire
 
           {emoji.emojize(':dollar_banknote:')} a BlockBuster 
 
-From the day 1 till date the makeover of the 
-        film is an awestruck process.
 
-I would like to splash my special thanks to 
+From the day 1 till date the makeover 
+           of the film is 
+        an awestruck process.
+
+
+I would like to splash my special thanks 
+                to my 
         Fantabulous Producers
---->--->--->--->--->--->--->--->--->--->----
+--->--->--->--->--->--->--->--->--->--->-
 
         {emoji.emojize(':partying_face:')} {next(PRODUCERS)}
 
@@ -70,24 +75,27 @@ I would like to splash my special thanks to
         {emoji.emojize(':flexed_biceps:')} {next(PRODUCERS)}
 
 
-Without a captain there is no ship he is our 
-          multi-faceted Director
----<---<---<---<---<---<---<---<---<---<----
+Without a captain there is no ship he 
+                is our 
+        multi-faceted Director
+---<---<---<---<---<---<---<---<---<--
 
         {emoji.emojize(':cinema:')} {Json_data["THE_DIRECTOR"]}
 
 
-Special Credits to our proactive & stupendous 
-          Executive Producer 
----+---+---+---+---+---+---+---+---+---+---+-
+Special Credits to our proactive 
+          & stupendous 
+       Executive Producer 
+---+---+---+---+---+---+---+---+-
 
         {emoji.emojize(':briefcase:')} {Json_data["EXECUTIVE_PRODUCER"]}
 
 
-        Making audience convinced to 
-         reality is always complex.
-Infinite Thanks for my Curated Art Directors Team
-{emoji.emojize(':man_mage:')}--+---+---+---+---+---+---+---+---+---+---+---{emoji.emojize(':woman_mage:')}
+    Making audience convinced to 
+     reality is always complex.
+   Infinite Thanks for my Curated 
+        Art Directors Team
+{emoji.emojize(':man_mage:')}--+---+---+---+---+---+---+---+---{emoji.emojize(':woman_mage:')}
 
          {emoji.emojize(':woman_technologist:')} {next(ART_DIRECTORS)}
 
@@ -104,9 +112,11 @@ Infinite Thanks for my Curated Art Directors Team
          {emoji.emojize(':puzzle_piece:')} {next(ART_DIRECTORS)}
 
 
-Welcome to the World of our Monstrous Villain team, 
-Thank you guys for keeping us nail biting all day
-+---+---+---+---+---+---+---+---+---+---+---+---+---
+Welcome to the World of our Monstrous 
+           Villain team, 
+    Thank you guys for keeping us 
+         nail biting all day
++---+---+---+---+---+---+---+---+---+-
 
          {emoji.emojize(':skull:')} {next(VILLAIN_TEAM)}
 
@@ -117,28 +127,33 @@ Thank you guys for keeping us nail biting all day
          {emoji.emojize(':vampire:')} {next(VILLAIN_TEAM)}
 
 
-Hero Team always Hero to their self & others, 
-       I proudly present my Hero team
-{emoji.emojize(':party_popper:') * 20}
+Hero Team always Hero to their 
+        self & others, 
+I proudly present my Hero team
+{emoji.emojize(':party_popper:') * 14}
 
-        {emoji.emojize(':person_in_tuxedo:')} {Json_data["HERO_TEAM"]}
+    {emoji.emojize(':person_in_tuxedo:')} {Json_data["HERO_TEAM"]}
 
 
-The entire journey of carving this action movie we faced lot of twists and turns.
-Happiness, Emptiness, Joy of Finishing a day of shoot, Completeness of a stunt sequence,
-Tiredness of capturing lengthy chasing scenes on a never ending road. 
+The entire journey of carving this action movie we faced lot 
+of twists and turns. Happiness, Emptiness, Joy of Finishing a 
+day of shoot, Completeness of a stunt sequence,Tiredness of 
+capturing lengthy chasing scenes on a never ending road. 
 
-At the end of the day we all sleep good with cherising feel of counting
-every day of the movie shoot.
+At the end of the day we all sleep good with cherising feel 
+of counting every day of the movie shoot.
 
-I Believe you all like the movie very much. Please watch in near cinemas around you,
-no piracy it is a painstaking hardwork of 300+ crew members.
+I Believe you all like the movie very much. Please watch in 
+near cinemas around you, no piracy it is a painstaking hardwork 
+of 300+ crew members.
 
-I will meet in my next movie at Cinema hall not as cast and crew members, 
-you all know I used to police something brand new in my each movies 
-including cast and crew members gives me immense ideas and creativity.
+I will meet in my next movie at Cinema hall not as cast & crew 
+members, you all know I used to police something brand new in 
+my each movies including cast and crew members gives me immense 
+ideas and creativity.
 
-Thank you all for helping me to complete this movie. Time to loosen the curtain.
+Thank you all for helping me to complete this movie. 
+Time to loosen the curtain.
 See you all in big screen again.
 
 You can reach back me through
