@@ -39,7 +39,7 @@ Film_Credits = f"""
             * END CREDITS *
             ***************
 
-DISCLAIMER: JUST FOR FUN NO HARD FEELINGS
+DISCLAIMER: JUST 4 FUN NO HARD FEELINGS
 ^^^^^^^^^^
 
 SCENE1 TAKE1 DATE: {Json_data['SCENE1_TAKE1_DATE'].strftime("%d-%B-%Y")}
@@ -63,10 +63,10 @@ From the day 1 till date the makeover
         an awestruck process.
 
 
-I would like to splash my special thanks 
-                to my 
+I would like to splash my special 
+        thanks to my 
         Fantabulous Producers
---->--->--->--->--->--->--->--->--->--->-
+--->--->--->--->--->--->--->--->--
 
         {emoji.emojize(':partying_face:')} {next(PRODUCERS)}
 
@@ -95,7 +95,7 @@ Special Credits to our proactive
      reality is always complex.
    Infinite Thanks for my Curated 
         Art Directors Team
-{emoji.emojize(':man_mage:')}--+---+---+---+---+---+---+---+---{emoji.emojize(':woman_mage:')}
+{emoji.emojize(':man_mage:')}--+---+---+---+---+---+---+---+--{emoji.emojize(':woman_mage:')}
 
          {emoji.emojize(':woman_technologist:')} {next(ART_DIRECTORS)}
 
@@ -130,29 +130,36 @@ Welcome to the World of our Monstrous
 Hero Team always Hero to their 
         self & others, 
 I proudly present my Hero team
-{emoji.emojize(':party_popper:') * 14}
+{emoji.emojize(':party_popper:') * 15}
 
     {emoji.emojize(':person_in_tuxedo:')} {Json_data["HERO_TEAM"]}
 
 
-The entire journey of carving this action movie we faced lot 
-of twists and turns. Happiness, Emptiness, Joy of Finishing a 
-day of shoot, Completeness of a stunt sequence,Tiredness of 
-capturing lengthy chasing scenes on a never ending road. 
+The entire journey of carving this 
+action movie we faced lot of twists 
+and turns. Happiness, Emptiness, Joy 
+of Finishing a day of shoot, 
+Completeness of a stunt sequence,
+Tiredness of capturing lengthy chasing 
+scenes on a never ending road. 
 
-At the end of the day we all sleep good with cherising feel 
-of counting every day of the movie shoot.
+At the end of the day we all sleep 
+good with cherising feel of counting 
+every day of the movie shoot.
 
-I Believe you all like the movie very much. Please watch in 
-near cinemas around you, no piracy it is a painstaking hardwork 
-of 300+ crew members.
+I Believe you all like the movie very much. 
+Please watch in near cinemas around you, 
+no piracy it is a painstaking hardwork of 
+300+ crew members.
 
-I will meet in my next movie at Cinema hall not as cast & crew 
-members, you all know I used to police something brand new in 
-my each movies including cast and crew members gives me immense 
-ideas and creativity.
+I will meet in my next movie at Cinema hall 
+not as cast & crew members, you all know I 
+used to police something brand new in my each 
+movies including cast and crew members gives
+me immense ideas and creativity.
 
-Thank you all for helping me to complete this movie. 
+Thank you all for helping me to 
+complete this movie. 
 Time to loosen the curtain.
 See you all in big screen again.
 
