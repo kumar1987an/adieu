@@ -13,7 +13,7 @@ Json_data = {
         "Jyothi Gadikal Krishnamurthy",
     ],
     "THE_DIRECTOR": "Subash, Ebenezer Joyson",
-    "HERO_TEAM": "Factory Unix Team",
+    "HERO_TEAM": "Factory Unix",
     "EXECUTIVE_PRODUCER": "Schofield, Steve",
     "villain_team": ["Scrum Leads", "MMs", "MPMs", "Command Center"],
     "art_directors": (
@@ -170,6 +170,8 @@ You can reach back me through
 -----------------------------
 Android:   +919884011997
 POP3/IMAP: kmrnr1987@gmail.com
+
+SCROLL UP {emoji.emojize(':index_pointing_up:')}
 """
 
 print(Film_Credits)
