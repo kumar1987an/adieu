@@ -115,7 +115,7 @@ Special Credits to our proactive
 Welcome to the World of our Monstrous 
            Villain team, 
     Thank you guys for keeping us 
-         nail biting all day
+         nail biting all scenes
 +---+---+---+---+---+---+---+---+---+-
 
          {emoji.emojize(':skull:')} {next(VILLAIN_TEAM)}
