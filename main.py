@@ -100,7 +100,7 @@ Film_Credits = f"""
                     
                                 {emoji.emojize(':nut_and_bolt:')} {next(ART_DIRECTORS)}
                     
-                                {emoji.emojize(':chains:')} {next(ART_DIRECTORS)}
+                                {emoji.emojize(':chains:')}  {next(ART_DIRECTORS)}
                     
                                 {emoji.emojize(':fire:')} {next(ART_DIRECTORS)}
                     
